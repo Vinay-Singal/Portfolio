@@ -6,10 +6,13 @@ import Portfolio from './components/Portfolio'
 import Experiance from './components/Experiance'
 import Footer from './components/Footer'
 import Contact from './components/Contact'
+import { ToastContainer, toast } from "react-toastify";
+import 'react-toastify/dist/ReactToastify.css';
 
 function App() {
   return (
     <>
+    <div>
     <Navbar />
     <Home />
     <About />
@@ -17,6 +20,8 @@ function App() {
     <Experiance />
     <Contact />
     <Footer />
+    </div>
+    <ToastContainer />
     </>
   )
 }
