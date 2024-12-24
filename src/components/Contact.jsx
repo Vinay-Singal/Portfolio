@@ -19,7 +19,7 @@ function Contact() {
       Message:data.message
     }
     try {
-      await axios.post("https://getformm.io/f/aollwdyb", userInfo);
+      await axios.post("https://getform.io/f/aollwdyb", userInfo);
     //   // function notify(){
       toast(`Hey ${userInfo.Name}, your message was sent successfully! 🚀 I’m on it like a superhero 🦸‍♂️—expect a reply soon! 😊`);
 
