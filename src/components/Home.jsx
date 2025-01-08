@@ -24,7 +24,7 @@ function Home() {
             <span className="text-xl">Welcome To My Feed</span>
             <div className="flex space-x-1 text-2xl md:text-4xl ">
               <h1 className="">Hello, I'm a</h1>
-              {/* <span className="text-red-700">Developer</span> */}
+              {/* <span className="text-red-700">Developerr</span> */}
               <ReactTyped
                 // typedRef={setTyped}
                 strings={["Developer", "Programmer", "Coder"]}
