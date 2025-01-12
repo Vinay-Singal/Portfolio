@@ -5,7 +5,7 @@ import reactLogo from "../../public/react-logo.jpg";
 import msoffice from "../../public/msoffice.png";
 import sql from "../../public/sql-logo.png";
 import html from "../../public/HTML5.png"
-import css from "../../public/css.png"
+import css from "../../public/css.png";
 import JavaScript from "../../public/JavaScript.png"
 import mongodbCompass from "../../public/mongodb-compass.png"
 import nosql from "../../public/nosql.png"
