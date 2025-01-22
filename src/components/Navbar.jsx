@@ -68,7 +68,7 @@ function Navbar() {
           </div>
         </div>
       </div>
-      {/* mobile view navbar*/}
+      {/* for mobile view navbar*/}
       {menu && (
   <div className="bg-white fixed top-0 left-0 w-full h-full z-50 transition-all duration-500 ease-in-out transform">
     <div className="absolute top-4 right-4">
