@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 import { FaSquareInstagram } from "react-icons/fa6";
 import { FaLinkedin } from "react-icons/fa6";
 import { IoLogoWhatsapp } from "react-icons/io";
