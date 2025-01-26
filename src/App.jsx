@@ -4,7 +4,7 @@ import Home from './components/Home'
 import About from './components/About'
 import Portfolio from './components/Portfolio'
 import Experiance from './components/Experiance'
-import Footer from './components/Footer'
+import Footer from './components/Footer';
 import Contact from './components/Contact'
 import { ToastContainer, toast } from "react-toastify";
 import 'react-toastify/dist/ReactToastify.css';
