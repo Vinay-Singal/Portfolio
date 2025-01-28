@@ -67,7 +67,7 @@ function Portfolio() {
                   <button
                     className="bg-blue-500 hover:bg-gray-700 text-white font-bold px-3 py-2 rounded hover:cursor-not-allowed"
                     // onClick={() => window.open('https://your-live-demo-url.com', '_blank')}
-                    // disabled
+                    // disabled;
                   >
                     demo
                   </button>
