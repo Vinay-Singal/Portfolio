@@ -4,7 +4,7 @@ import { RxCross2 } from "react-icons/rx";
 import { FiMenu } from "react-icons/fi";
 import { Link } from "react-scroll";
 function Navbar() {
-  const [menu, setMenu] = useState(false);
+  const [menu, setMenu] = useState(false)
   const navItems = [
     {
       id: 1,
