@@ -1,7 +1,7 @@
 import React from 'react';
 import { FaSquareInstagram } from "react-icons/fa6";
 import { FaLinkedin } from "react-icons/fa6";
-import { IoLogoWhatsapp } from "react-icons/io";
+import { IoLogoWhatsapp } from "react-icons/io"
 import { TbMailFilled } from "react-icons/tb";
 import { FaFacebook } from "react-icons/fa";
 import { CiHeart } from "react-icons/ci";
