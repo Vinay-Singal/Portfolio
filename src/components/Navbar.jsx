@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import profile from "../../public/profile.png";
 import { RxCross2 } from "react-icons/rx";
 import { FiMenu } from "react-icons/fi";
-import { Link } from "react-scroll";
+import { Link } from "react-scroll"
 function Navbar() {
   const [menu, setMenu] = useState(false)
   const navItems = [
