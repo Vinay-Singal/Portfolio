@@ -11,7 +11,7 @@ function Contact() {
   } = useForm();
 
   const onSubmit = async(data) => {
-    // console.log(data)
+    // console.log(data);
     
     const userInfo={
       Name:data.name,
