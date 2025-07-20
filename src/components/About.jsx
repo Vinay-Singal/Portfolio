@@ -120,7 +120,7 @@ function About() {
       <span>
         <h2 className="text-xl flex justify-between items-center">
           Intellipaat Software Solutions Pvt. Ltd. | Bangalore
-          <span className="ml-auto">2023-Present</span>
+          <span className="ml-auto">2023-2024</span>
         </h2>
         <em className="text-blue-600 font-semibold">
           Software Developer Intern
